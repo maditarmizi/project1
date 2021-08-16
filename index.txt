@@ -2,3 +2,5 @@ WEB PROGRAMMING
 - Belajar HTML
 - Belajar CSS 
 - Belajar Javascript
+- Belajar PHP
+- Belajar jQuery
