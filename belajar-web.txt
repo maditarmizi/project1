@@ -1,6 +1,7 @@
 JALUR BELAJAR WEB 
 
 - JavaScript
- * DOM
+ * DOM 
+- Codeigniter
 - Github
 - PHP
