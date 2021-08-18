@@ -2,7 +2,8 @@ JALUR BELAJAR WEB
 
 - JavaScript
  * DOM 
- * NodeJs
+ * NodeJs 
+ * React
 - Codeigniter
 - Github 
 * branch   
