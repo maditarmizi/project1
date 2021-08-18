@@ -2,6 +2,8 @@ JALUR BELAJAR WEB
 
 - JavaScript
  * DOM 
+ * NodeJs 
+ * React
 - Codeigniter
-- Github
+
 - PHP
